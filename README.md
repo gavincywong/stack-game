@@ -4,6 +4,8 @@ The 3D Stack Game was built using Three.js for the 3D mesh rendering and Cannon-
 
 Let's see how high you can stack these blocks!
 
+Play Game: [https://gavincywong.github.io/stack-game/](https://gavincywong.github.io/stack-game/)
+
 ## Game Features
 
 - Blocks will alternate from one end to the other. Time when the top block will be directly on top of the one below.
