@@ -1,6 +1,6 @@
 # STACK GAME
 
-The 3D Stack Game was built using Three.js for the 3D mesh rendering and Cannon-es.js for the in-game physics.  The game is currently optmized to be played on a desktop web- browser. 
+The 3D Stack Game was built using Three.js for the 3D mesh rendering and Cannon-es.js for the in-game physics.  The game is currently optimized to be played on a desktop web- browser. 
 
 Let's see how high you can stack these blocks!
 
